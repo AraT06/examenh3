@@ -1,0 +1,99 @@
+{
+  "profile": {
+    "name": "Aracely Michel Tito Barrancos",
+    "headline": "Estudiante de Ingeniería de Sistemas y desarrolladora web en formación.",
+    "roles": ["Angular", "PHP MVC", "Bootstrap", "Python", "Bases de datos"],
+    "summary": "Me interesa crear interfaces claras, responsivas y conectadas con datos reales. Trabajo con buenas prácticas de estructura, componentes reutilizables y control de versiones para convertir ideas en proyectos funcionales.",
+    "city": "Cochabamba, Bolivia",
+    "phone": "+591 70756809",
+    "email": "santy10mcpe@gmail.com",
+    "university": "Universidad Privada Franz Tamayo (UNIFRANZ)",
+    "semester": "Sexto semestre",
+    "career": "Ingeniería de Sistemas",
+    "github": "https://github.com/AraT06",
+    "linkedin": "https://www.linkedin.com/in/aracely-tito-barrancos",
+    "profilePhoto": "assets/fotos-ara/profile.jpeg",
+    "heroPhoto": "assets/fotos-ara/hero.jpeg"
+  },
+  "stats": [
+    { "value": "06", "label": "Semestres cursados" },
+    { "value": "08", "label": "Tecnologías practicadas" },
+    { "value": "03", "label": "Proyectos destacados" },
+    { "value": "01", "label": "Portafolio Angular" }
+  ],
+  "skills": [
+    { "name": "Angular", "value": 82 },
+    { "name": "HTML y CSS", "value": 92 },
+    { "name": "Bootstrap", "value": 88 },
+    { "name": "TypeScript", "value": 78 },
+    { "name": "PHP MVC", "value": 84 },
+    { "name": "Python", "value": 75 },
+    { "name": "PostgreSQL / MySQL", "value": 76 },
+    { "name": "Git y GitHub", "value": 82 }
+  ],
+  "education": [
+    {
+      "title": "Ingeniería de Sistemas",
+      "period": "En curso",
+      "institution": "Universidad Privada Franz Tamayo (UNIFRANZ)",
+      "detail": "Formación en programación, bases de datos, desarrollo web, diseño de interfaces y arquitectura de software."
+    },
+    {
+      "title": "Programación Gráfica y Multimedia I",
+      "period": "2026",
+      "institution": "Proyecto académico",
+      "detail": "Construcción de portafolio personal usando Angular, Bootstrap como referencia visual, recursos multimedia y datos consumidos desde JSON."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Portafolio personal Angular",
+      "period": "2026",
+      "institution": "Proyecto académico",
+      "detail": "Landing personal responsive con secciones de CV, proyectos, habilidades y contacto. El contenido se administra desde un archivo JSON para facilitar despliegue."
+    },
+    {
+      "title": "Aplicaciones web académicas",
+      "period": "Actualidad",
+      "institution": "UNIFRANZ",
+      "detail": "Desarrollo de proyectos con PHP MVC, Python/Flask, bases de datos relacionales y control de versiones con Git."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Portafolio Personal",
+      "category": "Angular",
+      "description": "Portafolio responsive construido en el proyecto examenh3, con contenido dinámico desde JSON y fotos personales.",
+      "tech": ["Angular", "TypeScript", "CSS", "JSON"],
+      "image": "assets/fotos-ara/gallery-1.jpeg",
+      "link": "https://github.com/AraT06"
+    },
+    {
+      "title": "Práctica MVC Portafolio",
+      "category": "Bootstrap",
+      "description": "Referencia visual tomada de mvc-portfolio, adaptada a una aplicación Angular moderna.",
+      "tech": ["Bootstrap", "MVC", "Diseño web"],
+      "image": "assets/fotos-ara/gallery-2.jpeg",
+      "link": "https://github.com/AraT06"
+    },
+    {
+      "title": "PedidoEntrega",
+      "category": "Python",
+      "description": "Aplicación académica para pedidos con roles, mapas interactivos y manejo de información.",
+      "tech": ["Python", "Flask", "Folium"],
+      "image": "assets/fotos-ara/gallery-3.jpeg",
+      "link": "https://github.com/AraT06/pedidoEntrega"
+    }
+  ],
+  "services": [
+    { "icon": "01", "title": "Diseño responsivo", "description": "Interfaces adaptables para escritorio, tablet y celular." },
+    { "icon": "02", "title": "Desarrollo web", "description": "Componentes, páginas y lógica frontend con Angular." },
+    { "icon": "03", "title": "Datos estructurados", "description": "Contenido organizado en JSON para editar y desplegar fácilmente." }
+  ],
+  "gallery": [
+    "assets/fotos-ara/gallery-4.jpeg",
+    "assets/fotos-ara/gallery-2.jpeg",
+    "assets/fotos-ara/gallery-3.jpeg",
+    "assets/fotos-ara/gallery-1.jpeg"
+  ]
+}
